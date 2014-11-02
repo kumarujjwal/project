@@ -2,3 +2,4 @@
 tem
 *.swp`
 test/*.txt
+!test/master.txt
