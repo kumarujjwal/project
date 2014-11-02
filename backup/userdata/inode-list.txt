@@ -1,0 +1,1 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<br/><br/>&nbsp;&nbsp;<span style='font-size:12px'>Total Inode count: <b>1334</b> </span>&nbsp;&nbsp;<span style='font-size:11px'>( You cannot see Inode tree because you have less then 200,000 Inodes ) </span><br/><br/>

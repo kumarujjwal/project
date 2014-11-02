@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	zerosptp:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2014.10.15.07.18.05;	author zerosptp;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.10.15.07.18.05;	author zerosptp;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@no-reply:x:3044:3045::/home/zerosptp/mail/zeros.co.in/no-reply:/home/zerosptp
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

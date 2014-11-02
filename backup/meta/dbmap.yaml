@@ -1,0 +1,13 @@
+--- 
+MYSQL: 
+  dbs: 
+    zerosptp_zeros: 103.21.58.156
+  dbusers: 
+    zerosptp_admin: 
+      dbs: 
+        zerosptp_zeros: 103.21.58.156
+      server: 103.21.58.156
+  noprefix: {}
+
+  owner: zerosptp
+  server: 103.21.58.156

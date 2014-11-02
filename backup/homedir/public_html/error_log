@@ -1,0 +1,1 @@
+[15-Oct-2014 08:57:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'send_email' (T_STRING), expecting variable (T_VARIABLE) in /home/zerosptp/public_html/application/controllers/upload.php on line 98

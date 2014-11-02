@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/zeros.co.in
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/zeros.co.in-bytes_log
+documentroot: /home/zerosptp/public_html
+group: zerosptp
+hascgi: 1
+homedir: /home/zerosptp
+ip: 103.21.58.156
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/zerosptp/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@zeros.co.in
+serveralias: www.zeros.co.in www.zeros.co.in.cp-in-2.webhostbox.net zeros.co.in.cp-in-2.webhostbox.net
+servername: zeros.co.in
+usecanonicalname: 'Off'
+user: zerosptp

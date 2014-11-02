@@ -1,0 +1,6 @@
+---
+gem: --remote --gen-rdoc --run-tests
+gemhome: /home/zerosptp/ruby/gems
+gempath: [/opt/ruby/lib/ruby/gems/1.9.1,
+          /home/zerosptp/ruby/gems]
+rdoc: --inline-source --line-numbers

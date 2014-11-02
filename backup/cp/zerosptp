@@ -1,0 +1,31 @@
+# cPanel -- If you edit this file directly you must run /usr/local/cpanel/scripts/updateuserdomains afterwards to rebuild the system caches.
+# If you edit MAX_EMAIL_PER_HOUR or MAX_EMAIL_PER_HOUR-[domain] you must run /usr/local/cpanel/scripts/updateuserdomains'
+
+BACKUP=0
+BWLIMIT=unlimited
+CONTACTEMAIL=kingsinghujjwal9@gmail.com
+CONTACTEMAIL2=
+DBOWNER=zerosptp
+DEMO=0
+DNS=zeros.co.in
+DNS1=zeros.co.in.cp-in-2.webhostbox.net
+FEATURELIST=default
+HASCGI=1
+HASDKIM=0
+HASSPF=0
+IP=103.21.58.156
+LEGACY_BACKUP=0
+LOCALE=en
+MAXADDON=0
+MAXFTP=unlimited
+MAXLST=unlimited
+MAXPARK=unlimited
+MAXPOP=unlimited
+MAXSQL=unlimited
+MAXSUB=unlimited
+MTIME=1413038301
+OWNER=root
+PLAN=default
+RS=x3
+STARTDATE=1413038301
+USER=zerosptp
